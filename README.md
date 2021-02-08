@@ -1,7 +1,7 @@
 # myProto
 Simple basic protocol without ack
 
-Implementazione di un semplice protocollo peer to peer senza rilevazione delle collisioni Si adopera su un bus interfacciato con un transceiver RS485. 
+Implementazione di un semplice protocollo peer to peer senza rilevazione delle collisioni. Si adopera su un bus interfacciato con un transceiver RS485. 
 
 Si può usare per realizzare un sistema multimaster con stazioni che trasmettono indipendentemente l'una dall'altra senza la supervisione di un dispositivo centrale (master).
 
