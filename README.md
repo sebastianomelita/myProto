@@ -28,7 +28,7 @@ Sostanzialmente è un rimaneggiamento del codice citato di seguito:
  
  - SI: service identifier (ACK, MSG) - 1byte
  
- - BYTE_CNT: numero byte complessivi (+payload -CRC) - 1byte
+ - BYTE_CNT: numero byte complessivi (+payload) - 1byte
  
   
  Il buffer di trasmissione memorizza un solo messaggio ed è a comune tra trasmissione e ricezione.
